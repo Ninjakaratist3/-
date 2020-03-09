@@ -1,0 +1,11 @@
+C:\Users\tomas_000\Desktop\Алгоритм Хаффмана\Алгоритм Хаффмана\bin\Debug\Алгоритм Хаффмана.exe.config
+C:\Users\tomas_000\Desktop\Алгоритм Хаффмана\Алгоритм Хаффмана\bin\Debug\Алгоритм Хаффмана.exe
+C:\Users\tomas_000\Desktop\Алгоритм Хаффмана\Алгоритм Хаффмана\bin\Debug\Алгоритм Хаффмана.pdb
+C:\Users\tomas_000\Desktop\Алгоритм Хаффмана\Алгоритм Хаффмана\obj\Debug\Алгоритм Хаффмана.csprojAssemblyReference.cache
+C:\Users\tomas_000\Desktop\Алгоритм Хаффмана\Алгоритм Хаффмана\obj\Debug\Алгоритм_Хаффмана.Form1.resources
+C:\Users\tomas_000\Desktop\Алгоритм Хаффмана\Алгоритм Хаффмана\obj\Debug\Алгоритм_Хаффмана.Form2.resources
+C:\Users\tomas_000\Desktop\Алгоритм Хаффмана\Алгоритм Хаффмана\obj\Debug\Алгоритм_Хаффмана.Properties.Resources.resources
+C:\Users\tomas_000\Desktop\Алгоритм Хаффмана\Алгоритм Хаффмана\obj\Debug\Алгоритм Хаффмана.csproj.GenerateResource.cache
+C:\Users\tomas_000\Desktop\Алгоритм Хаффмана\Алгоритм Хаффмана\obj\Debug\Алгоритм Хаффмана.exe
+C:\Users\tomas_000\Desktop\Алгоритм Хаффмана\Алгоритм Хаффмана\obj\Debug\Алгоритм Хаффмана.pdb
+C:\Users\tomas_000\Desktop\Алгоритм Хаффмана\Алгоритм Хаффмана\obj\Debug\Алгоритм_Хаффмана.Form3.resources
